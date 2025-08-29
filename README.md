@@ -39,8 +39,11 @@ I believe in building **clean, maintainable, and performance-driven applications
 ---
 
 ### 🧭 Career Highlights  
-- **Freelance Career (2013–Present)** - Delivered 250+ projects on **Fiverr** (WordPress, WooCommerce, custom plugins/themes). - Expanded to **Upwork (2019)**, collaborating with international startups on **WordPress & front-end apps**.
-- **OOP Technologie (2022–2024)** - Built **scalable React/Next.js applications** with a focus on **performance & responsive UIs**.
+- **Freelance Career (2013–Present)**
+  - Delivered 250+ projects on **Fiverr** (WordPress, WooCommerce, custom plugins/themes).
+  - Expanded to **Upwork (2019)**, collaborating with international startups on **WordPress & front-end apps**.
+- **OOP Technologie (2022–2024)**
+  - Built **scalable React/Next.js applications** with a focus on **performance & responsive UIs**.
 - **PaismoHR (2024–Present)**  
   - Developing **HR SaaS modules** with **React, Next.js, MobX, React Query, React Hook Form, and MUI**.  
   - Revamped the corporate site with enhanced **UX, interactivity, and SEO performance**.  
