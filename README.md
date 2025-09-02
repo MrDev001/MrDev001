@@ -1,6 +1,6 @@
 <!-- Banner / Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=48C9B0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Rehan+Akbar+%7C+Front-End+Developer;React.js+%7C+Next.js+%7C+WordPress;Building+scalable+HR+SaaS+modules+at+PaismoHR;Clean+UI%2C+Performance%2C+SEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=48C9B0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Rehan+Akbar+%7C+Web+Developer;React.js+%7C+Next.js+%7C+WordPress;Building+scalable+HR+SaaS+modules+at+PaismoHR;Clean+UI%2C+Performance%2C+SEO" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to my GitHub 👋</h1>
@@ -22,7 +22,7 @@
 
 ## 🔥 About Me  
 
-I’m **Rehan Akbar**, a **Front-End Developer** with over **9 years of web development experience**, including **2+ years specializing in modern React.js and Next.js ecosystems**.  
+I’m **Rehan Akbar**, a **Web Developer** with over **9 years experience**, including **2+ years specializing in modern React.js and Next.js ecosystems**.  
 
 My journey began in **2013 on Fiverr**, where I worked with global clients as a **WordPress developer**, delivering custom themes, plugins, and WooCommerce solutions. In **2019, I expanded to Upwork**, helping startups and businesses scale with tailored **WordPress and front-end projects**. These freelancing years honed my ability to **communicate with clients, manage projects independently, and deliver on strict deadlines**.  
 
