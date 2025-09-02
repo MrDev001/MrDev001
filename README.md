@@ -1,6 +1,6 @@
 <!-- Banner / Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=48C9B0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Rehan+Akbar+%7C+Web+Developer;Javascript+%7C+React.js+%7C+Next.js;Custom+WordPress+Developer+%7C+Headless+CMS;Building+scalable+HR+SaaS+modules+at+PaismoHR;Clean+UI%2C+Performance%2C+SEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=48C9B0&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Rehan+Akbar+%7C+Web+Developer;Javascript+%7C+React.js+%7C+Next.js;Custom+WordPress+%7C+Headless+CMS;Building+scalable+HR+SaaS+modules+at+PaismoHR;Clean+UI%2C+Performance%2C+SEO" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Welcome to my GitHub 👋</h1>
