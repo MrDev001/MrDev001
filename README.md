@@ -22,7 +22,7 @@
 
 ## 🔥 About Me  
 
-I’m **Rehan Akbar**, a **Web Developer** with over **9+ years experience**, including **2+ years specializing in modern React.js and Next.js ecosystems**.  
+I’m **Rehan Akbar**, a **Web Developer** with over **9+ years experience**, including **3+ years specializing in modern React.js and Next.js ecosystems**.  
 
 My journey began in **2013 on Fiverr**, where I worked with global clients as a **WordPress developer**, delivering custom themes, plugins, and WooCommerce solutions. In **2019, I expanded to Upwork**, helping startups and businesses scale with tailored **WordPress and front-end projects**. These freelancing years honed my ability to **communicate with clients, manage projects independently, and deliver on strict deadlines**.  
 
